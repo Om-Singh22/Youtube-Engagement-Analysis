@@ -9,8 +9,6 @@ In today's digital landscape, YouTube has become a powerful platform for content
 The YouTube Engagement System project offers a comprehensive solution for analyzing video engagement data, identifying patterns, and predicting future engagement levels. By utilizing this system, content creators and businesses can make informed decisions to enhance their video strategies, increase viewer engagement, and achieve their goals.
 
 
-<img src="https://github.com/Ginga1402/YouTube_Engagement_System/assets/130181481/86ec387f-990f-45ca-966e-bd06abc90454" alt="image" width="700">
-
 
 ## Project Overview :
 
